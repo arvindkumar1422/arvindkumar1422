@@ -6,4 +6,4 @@ Computer Science engineering student
 - 🌱 Im currently Pursuing my B.tech in Computer science and engineering with spec in AIML
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about tech
-- <br /> 
+  
