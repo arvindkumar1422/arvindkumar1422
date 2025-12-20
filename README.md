@@ -91,62 +91,77 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🏢 Chennai Metro Rail Limited</h3>
-        <p><b>SDE Intern (AI Systems) • Aug 2025 - Oct 2025</b></p>
-        <br/>
-        
+<br/>
+
+<details open>
+<summary><b>🏢 Chennai Metro Rail Limited - SDE Intern (AI Systems)</b></summary>
+<br/>
+
+**Aug 2025 - Oct 2025 | Chennai, India**
+
 ```diff
 + AI fault analysis system: 500+ PDFs, 95% accuracy
 + Semantic search: 100+ concurrent users, sub-second response  
 + Gemma 2B LLM: zero-hallucination architecture
 + Diagnostic time reduced by 60%
 ```
-      </td>
-      <td width="50%" valign="top">
-        <h3>🏭 TATA Steel India</h3>
-        <p><b>SDE Intern (Computer Vision) • Apr 2025 - Jul 2025</b></p>
-        <br/>
-        
+
+**Tech Stack:** `Python` `FAISS` `Gemma LLM` `Streamlit` `NLP` `RAG`
+
+</details>
+
+<details open>
+<summary><b>🏭 TATA Steel India - SDE Intern (Computer Vision)</b></summary>
+<br/>
+
+**Apr 2025 - Jul 2025 | Jamshedpur, India**
+
 ```diff
 + Automated QA: Ring Test & Rib Test, 98% accuracy
 + Computer vision pipeline: 45% efficiency boost
 + Full-stack web app: real-time dashboard & RESTful API
 + Advanced image processing algorithms
 ```
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>☁️ Sentient Scripts</h3>
-        <p><b>SDE Intern (Full-Stack & AI) • Dec 2024 - Feb 2025</b></p>
-        <br/>
-        
+
+**Tech Stack:** `OpenCV` `Python` `Flask` `Computer Vision` `Image Processing`
+
+</details>
+
+<details open>
+<summary><b>☁️ Sentient Scripts - SDE Intern (Full-Stack & AI)</b></summary>
+<br/>
+
+**Dec 2024 - Feb 2025 | Remote**
+
 ```diff
 + Weather chatbot: 1000+ daily users, 92% satisfaction
 + LLM optimization: sub-100ms latency with HuggingFace
 + AWS EC2 deployment: 99.9% uptime, auto-scaling
 + Production-grade AI application
 ```
-      </td>
-      <td width="50%" valign="top">
-        <h3>🚗 Renault Nissan Automotive</h3>
-        <p><b>SDE Intern (IoT & Analytics) • Jul 2024 - Nov 2024</b></p>
-        <br/>
-        
+
+**Tech Stack:** `AWS EC2` `HuggingFace` `LLM` `REST API` `Cloud Architecture`
+
+</details>
+
+<details open>
+<summary><b>🚗 Renault Nissan Automotive - SDE Intern (IoT & Analytics)</b></summary>
+<br/>
+
+**Jul 2024 - Nov 2024 | Chennai, India**
+
 ```diff
 + Multi-sensor system: LIDAR + RGB, 90% accuracy
 + Point Cloud Processing: volumetric calculations
 + ML-powered sensor fusion: 35% robustness boost
 + Real-time data pipeline architecture
 ```
-      </td>
-    </tr>
-  </table>
-</div>
+
+**Tech Stack:** `LIDAR` `Computer Vision` `ML` `Data Pipeline` `Analytics`
+
+</details>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
