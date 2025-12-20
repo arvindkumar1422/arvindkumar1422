@@ -282,16 +282,18 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindkumar1422&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar1422&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindkumar1422&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar1422&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindkumar1422&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindkumar1422&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar1422&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -303,8 +305,15 @@
 <!-- CODING STATS -->
 <h2 align="center">⏱️ This Week I Coded</h2>
 
+<div align="center">
+
 <!--START_SECTION:waka-->
+```text
+No activity tracked yet. Set up WakaTime to see your coding stats!
+```
 <!--END_SECTION:waka-->
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -312,30 +321,23 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <h3>LeetCode Stats</h3>
-  <a href="https://leetcode.com/arvindkumar1422/">
-    <img src="https://leetcard.jacoblin.cool/arvindkumar1422?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-  </a>
-  
-  <br/><br/>
-  
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Data%20Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Data%20Structures-667eea?style=for-the-badge&logoColor=white"/>
         <p><b>Data Structures</b></p>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Algorithms-764ba2?style=for-the-badge&logoColor=white"/>
         <p><b>Algorithms</b></p>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/System%20Design-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/System%20Design-667eea?style=for-the-badge&logoColor=white"/>
         <p><b>System Design</b></p>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Database-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-        <p><b>SQL/Database</b></p>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Problem%20Solving-764ba2?style=for-the-badge&logoColor=white"/>
+        <p><b>Problem Solving</b></p>
       </td>
     </tr>
   </table>
@@ -387,36 +389,49 @@
 <!-- GOALS -->
 <h2 align="center">🎯 2025 Goals</h2>
 
-```python
-class Goals2025:
-    def __init__(self):
-        self.technical = {
-            "master": ["System Design", "Distributed Systems", "Cloud Architecture"],
-            "contribute": ["Open Source Projects", "Research Papers"],
-            "build": ["Production-Grade AI Apps", "Scalable Systems"]
-        }
-        
-        self.career = {
-            "target": "SDE role in top product-based company",
-            "focus": "Large-scale distributed systems & ML infrastructure",
-            "timeline": "Jan-Jun 2026 (6-month commitment)"
-        }
-        
-        self.learning = {
-            "deep_dive": ["AWS/GCP Architecture", "Microservices", "Event-Driven Systems"],
-            "research": ["Advanced ML/DL Papers", "RAG Systems", "LLM Optimization"]
-        }
-    
-    def get_availability(self):
-        return {
-            "status": "Open for opportunities",
-            "location": "Pan India relocation ready",
-            "start": "Immediate / Jan 2026"
-        }
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+        <h3>🎓 Technical Mastery</h3>
+        <p align="left">
+          • System Design & Architecture<br/>
+          • Distributed Systems at Scale<br/>
+          • Cloud Infrastructure (AWS/GCP)<br/>
+          • Advanced ML/DL Research<br/>
+          • Production-Grade AI Apps
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+        <h3>💼 Career Goals</h3>
+        <p align="left">
+          • <b>SDE role</b> in top product company<br/>
+          • Large-scale distributed systems<br/>
+          • ML infrastructure work<br/>
+          • Jan-Jun 2026 (6 months)<br/>
+          • Pan India relocation ready
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+        <h3>🚀 Growth & Impact</h3>
+        <p align="left">
+          • Contribute to Open Source<br/>
+          • Publish research papers<br/>
+          • Build scalable systems<br/>
+          • Mentor aspiring developers<br/>
+          • Share knowledge through blogs
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-arvind = Goals2025()
-print(f"🚀 Status: {arvind.get_availability()['status']}")
-```
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
