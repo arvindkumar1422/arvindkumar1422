@@ -317,34 +317,6 @@ No activity tracked yet. Set up WakaTime to see your coding stats!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- COMPETITIVE PROGRAMMING -->
-<h2 align="center">🏆 Competitive Programming</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Data%20Structures-667eea?style=for-the-badge&logoColor=white"/>
-        <p><b>Data Structures</b></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Algorithms-764ba2?style=for-the-badge&logoColor=white"/>
-        <p><b>Algorithms</b></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/System%20Design-667eea?style=for-the-badge&logoColor=white"/>
-        <p><b>System Design</b></p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Problem%20Solving-764ba2?style=for-the-badge&logoColor=white"/>
-        <p><b>Problem Solving</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🎖️ Achievements & Leadership</h2>
 
