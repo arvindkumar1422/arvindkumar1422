@@ -29,7 +29,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan+%7C+Sentient+Scripts" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
       <h3>👋 About Me</h3>
       <p>
         Software Development Engineer specializing in <b>AI/ML</b>, <b>Distributed Systems</b>, and <b>Full-Stack Development</b>. 
-        Proven track record at <b>Chennai Metro Rail</b>, <b>TATA Steel</b>, and <b>Renault Nissan</b> delivering production systems 
+        Proven track record at <b>Chennai Metro Rail</b>, <b>TATA Steel</b>,<b> Sentient Scripts and <b>Renault Nissan</b> delivering production systems 
         serving <b>100+ concurrent users</b> with <b>95%+ accuracy</b>.
       </p>
       <p>
