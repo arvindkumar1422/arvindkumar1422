@@ -27,11 +27,7 @@
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan+%7C+Sentient+Scripts" alt="Typing SVG" />
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud+Architecture;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan;Sentient+Scripts+%7C+Production+AI+Systems" alt="Typing SVG" />
 <br/>
 
 <!-- ABOUT SECTION -->
