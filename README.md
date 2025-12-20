@@ -1,226 +1,164 @@
+<!-- HEADER -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Arvind%20Kumar&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Development%20Engineer%20%7C%20AI/ML%20Specialist&descAlignY=55&descSize=20" />
+</div>
 
-<!-- EPIC ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ARVIND%20KUMAR&fontSize=100&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ARCHITECT%20%7C%20AI/ML%20SPECIALIST%20%7C%20SYSTEM%20DESIGNER&descAlignY=58&descSize=20&descAlign=50" />
-
-<!-- TYPING ANIMATION WITH MULTIPLE LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=Building+Production+Systems+%7C+100%2B+Users;AI%2FML+Engineer+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan" alt="Typing SVG" />
-
+<!-- SOCIAL LINKS -->
+<div align="center">
+<a href="https://linkedin.com/in/arvindkumarcm">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ak2730531@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/arvindkumar1422">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://arvindkumarcm-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://drive.google.com/file/d/1m14NPTEdWkhVkOX6XtRqlBa8IwY2A1Cg/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-764ba2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
 <br/>
-
-<!-- SUPER BADGES -->
-<a href="https://linkedin.com/in/arvindkumarcm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-<a href="mailto:ak2730531@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
-<a href="https://github.com/arvindkumar1422"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
-<a href="https://arvindkumarcm-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" /></a>
-<a href="https://drive.google.com/file/d/1m14NPTEdWkhVkOX6XtRqlBa8IwY2A1Cg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=arvindkumar1422&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/arvindkumar1422?label=FOLLOWERS&style=for-the-badge&color=blue&labelColor=000000" />
-<img src="https://img.shields.io/badge/OPEN%20FOR-SDE%20ROLES-success?style=for-the-badge&labelColor=000000" />
-
+<img src="https://komarev.com/ghpvc/?username=arvindkumar1422&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Views"/>
+<img src="https://img.shields.io/github/followers/arvindkumar1422?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
 </div>
 
 <br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- MATRIX-STYLE ABOUT -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-
-## 💫 『 SYSTEM ARCHITECT 』💫
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-```ascii
-╔═══════════════════════════════════════╗
-║  ROLE: Software Development Engineer  ║
-║  SPEC: AI/ML | Distributed Systems    ║
-║  EDU:  B.Tech CSE (AI/ML) @ SRMIST    ║
-║  GPA:  8.22/10                        ║
-║  LOC:  Chennai, India                 ║
-║  MODE: Available for Relocation       ║
-╚═══════════════════════════════════════╝
-```
-
-<br clear="right"/>
-
-### 🎯 ELITE TRACK RECORD
-
-Building **PRODUCTION-GRADE AI SYSTEMS** at India's top companies
-
-🚇 **Chennai Metro Rail** → AI Fault Analysis | 95% Accuracy  
-🏭 **TATA Steel** → Computer Vision QA | 98% Precision  
-☁️ **Sentient Scripts** → Cloud-Scale Chatbot | 1000+ Users  
-🚗 **Renault Nissan** → IoT Analytics | 90% Detection Rate
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan+%7C+Sentient+Scripts" alt="Typing SVG" />
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Scalable+Distributed+Systems;AI%2FML+%7C+Computer+Vision+%7C+Cloud+Architecture;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan;Sentient+Scripts+%7C+Production+AI+Systems" alt="Typing SVG" />
 <br/>
 
-<!-- POWER STATS -->
-<div align="center">
-
-## ⚡ IMPACT METRICS ⚡
-
+<!-- ABOUT SECTION -->
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/documents.png" width="60"/>
-<h3>500+</h3>
-<p><b>Documents<br/>Processed</b></p>
+<td width="55%" valign="top">
+ <h3>👋 About Me</h3>
+ <p>
+   Software Development Engineer specializing in <b>AI/ML</b>, <b>Distributed Systems</b>, and <b>Full-Stack Development</b>. 
+   Proven track record at <b>Chennai Metro Rail</b>, <b>TATA Steel</b>,<b> Sentient Scripts and <b>Renault Nissan</b> delivering production systems 
+   serving <b>100+ concurrent users</b> with <b>95%+ accuracy</b>.
+ </p>
+ <p>
+   🎓 <b>CSE (AI/ML)</b> @ SRMIST | CGPA: <b>8.22/10</b><br/>
+   📍 Chennai, India | 🌐 Available for <b>Pan India relocation</b><br/>
+   💼 Seeking <b>SDE Internship/Full-Time</b> (Jan-Jun 2026)
+ </p>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/accuracy.png" width="60"/>
-<h3>95%+</h3>
-<p><b>System<br/>Accuracy</b></p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/timer.png" width="60"/>
-<h3>60%</h3>
-<p><b>Time<br/>Reduction</b></p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/nolan/96/users.png" width="60"/>
-<h3>100+</h3>
-<p><b>Concurrent<br/>Users</b></p>
+<td width="45%" align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding"/>
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- IMPACT METRICS -->
+<div align="center">
+<table>
+<tr>
+ <td align="center" width="25%">
+   <h2>500+</h2>
+   <p>Documents Processed</p>
+ </td>
+ <td align="center" width="25%">
+   <h2>95%</h2>
+   <p>System Accuracy</p>
+ </td>
+ <td align="center" width="25%">
+   <h2>60%</h2>
+   <p>Time Reduction</p>
+ </td>
+ <td align="center" width="25%">
+   <h2>100+</h2>
+   <p>Concurrent Users</p>
+ </td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- EXPERIENCE SECTION WITH GLOW -->
-<div align="center">
-
-## 🔥 BATTLE-TESTED EXPERIENCE 🔥
-
-</div>
-
-<!-- CHENNAI METRO -->
-<details open>
-<summary>
-<img src="https://img.shields.io/badge/🚇_CHENNAI_METRO_RAIL-AI_SYSTEMS_ENGINEER-00D9FF?style=for-the-badge&labelColor=000000" />
-<b>Aug 2025 - Oct 2025 | Chennai, India</b>
-</summary>
+<!-- EXPERIENCE -->
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+Professional Journey
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
 <br/>
 
-<div align="center">
+<details open>
+<summary><b>🏢 Chennai Metro Rail Limited - SDE Intern (AI Systems)</b></summary>
+<br/>
 
-### 🎯 MISSION: Enterprise AI Fault Analysis System
-
-</div>
+**Aug 2025 - Oct 2025 | Chennai, India**
 
 ```diff
-+ 🚀 Deployed production AI serving 100+ concurrent users
-+ 🎯 Achieved 95% accuracy on 500+ technical documents
-+ ⚡ Sub-second response time with FAISS vector search
-+ 🧠 Zero-hallucination architecture using Gemma 2B LLM
-+ 📊 Reduced diagnostic time by 60% across operations
-+ 🔧 RAG methodology with advanced NLP preprocessing
++ AI fault analysis system: 500+ PDFs, 95% accuracy
++ Semantic search: 100+ concurrent users, sub-second response  
++ Gemma 2B LLM: zero-hallucination architecture
++ Diagnostic time reduced by 60%
 ```
 
-**⚙️ TECH ARSENAL:** `Python` `FAISS` `Gemma LLM` `Streamlit` `NLP` `RAG` `AWS` `Docker`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400"/>
+**Tech Stack:** `Python` `FAISS` `Gemma LLM` `Streamlit` `NLP` `RAG`
 
 </details>
 
-<!-- TATA STEEL -->
 <details open>
-<summary>
-<img src="https://img.shields.io/badge/🏭_TATA_STEEL_INDIA-COMPUTER_VISION_ENGINEER-FF6B35?style=for-the-badge&labelColor=000000" />
-<b>Apr 2025 - Jul 2025 | Jamshedpur, India</b>
-</summary>
-
+<summary><b>🏭 TATA Steel India - SDE Intern (Computer Vision)</b></summary>
 <br/>
 
-<div align="center">
-
-### 🎯 MISSION: Automated Quality Assurance System
-
-</div>
+**Apr 2025 - Jul 2025 | Jamshedpur, India**
 
 ```diff
-+ 🎯 98% accuracy in Ring Test & Rib Test automation
-+ 📈 45% efficiency boost in quality control pipeline
-+ 🖥️ Full-stack dashboard with real-time monitoring
-+ 🔌 RESTful API for seamless system integration
-+ 🧪 Advanced image processing algorithms
-+ 📸 Computer vision defect detection system
++ Automated QA: Ring Test & Rib Test, 98% accuracy
++ Computer vision pipeline: 45% efficiency boost
++ Full-stack web app: real-time dashboard & RESTful API
++ Advanced image processing algorithms
 ```
 
-**⚙️ TECH ARSENAL:** `OpenCV` `Python` `Flask` `Computer Vision` `Image Processing` `REST API`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400"/>
+**Tech Stack:** `OpenCV` `Python` `Flask` `Computer Vision` `Image Processing`
 
 </details>
 
-<!-- SENTIENT SCRIPTS -->
 <details open>
-<summary>
-<img src="https://img.shields.io/badge/☁️_SENTIENT_SCRIPTS-FULL_STACK_+_AI_ENGINEER-7B68EE?style=for-the-badge&labelColor=000000" />
-<b>Dec 2024 - Feb 2025 | Remote</b>
-</summary>
-
+<summary><b>☁️ Sentient Scripts - SDE Intern (Full-Stack & AI)</b></summary>
 <br/>
 
-<div align="center">
-
-### 🎯 MISSION: Cloud-Scale AI Chatbot
-
-</div>
+**Dec 2024 - Feb 2025 | Remote**
 
 ```diff
-+ 🌐 Serving 1000+ daily users with 92% satisfaction
-+ ⚡ Sub-100ms latency with optimized LLM pipeline
-+ ☁️ AWS EC2 deployment with 99.9% uptime
-+ 🔄 Auto-scaling architecture for peak loads
-+ 🤖 HuggingFace transformers integration
-+ 🔌 Production-grade RESTful API
++ Weather chatbot: 1000+ daily users, 92% satisfaction
++ LLM optimization: sub-100ms latency with HuggingFace
++ AWS EC2 deployment: 99.9% uptime, auto-scaling
++ Production-grade AI application
 ```
 
-**⚙️ TECH ARSENAL:** `AWS EC2` `HuggingFace` `LLM` `REST API` `Cloud Architecture` `Auto-Scaling`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400"/>
+**Tech Stack:** `AWS EC2` `HuggingFace` `LLM` `REST API` `Cloud Architecture`
 
 </details>
 
-<!-- RENAULT NISSAN -->
 <details open>
-<summary>
-<img src="https://img.shields.io/badge/🚗_RENAULT_NISSAN-IOT_+_ANALYTICS_ENGINEER-FFD700?style=for-the-badge&labelColor=000000" />
-<b>Jul 2024 - Nov 2024 | Chennai, India</b>
-</summary>
-
+<summary><b>🚗 Renault Nissan Automotive - SDE Intern (IoT & Analytics)</b></summary>
 <br/>
 
-<div align="center">
-
-### 🎯 MISSION: Multi-Sensor IoT System
-
-</div>
+**Jul 2024 - Nov 2024 | Chennai, India**
 
 ```diff
-+ 📡 Integrated LIDAR + RGB sensor fusion
-+ 🎯 90% accuracy in point cloud processing
-+ 🧠 ML-powered sensor fusion (+35% robustness)
-+ 📊 Real-time volumetric calculations
-+ 🔄 Data pipeline for manufacturing analytics
-+ 🏭 Production-ready IoT infrastructure
++ Multi-sensor system: LIDAR + RGB, 90% accuracy
++ Point Cloud Processing: volumetric calculations
++ ML-powered sensor fusion: 35% robustness boost
++ Real-time data pipeline architecture
 ```
 
-**⚙️ TECH ARSENAL:** `LIDAR` `Computer Vision` `ML` `Data Pipeline` `Analytics` `IoT`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400"/>
+**Tech Stack:** `LIDAR` `Computer Vision` `ML` `Data Pipeline` `Analytics`
 
 </details>
 
@@ -228,278 +166,223 @@ Building **PRODUCTION-GRADE AI SYSTEMS** at India's top companies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TECH STACK SHOWCASE -->
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
 <div align="center">
 
-## 🛡️ ARSENAL OF TECHNOLOGIES 🛡️
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql&theme=dark&perline=6" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 『 AI/ML MASTERY 』
+**AI/ML Stack**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 『 CLOUD & DEVOPS 』
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,github&theme=dark&perline=6" />
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 『 WEB DEVELOPMENT 』
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,fastapi,express&theme=dark&perline=6" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Databases**
 
-### 『 DATABASES 』
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark&perline=4" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- PROJECTS SHOWCASE -->
+<!-- PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
+
 <div align="center">
-
-## 🚀 LEGENDARY PROJECTS 🚀
-
-</div>
-
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 Enterprise AI Fault Analysis
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
-
-**🎯 Production AI for Metro Operations**
-
-- ✨ 500+ technical PDFs processed
-- ⚡ 95% accuracy, zero hallucinations
-- 👥 100+ concurrent users supported
-- 🚀 60% faster diagnostics
-
-**Stack:** Python • FAISS • Gemma LLM • Streamlit • AWS • Docker
-
-</td>
-<td width="50%">
-
-### 🚜 Autonomous Agricultural IoT
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%"/>
-
-**🎯 Edge AI for Precision Farming**
-
-- 🌱 92% plant health monitoring accuracy
-- 🔥 NVIDIA Jetson Nano deployment
-- 📊 LSTM time-series predictions
-- 🎛️ Multi-modal sensor fusion
-
-**Stack:** NVIDIA Jetson • PyTorch • OpenCV • LSTM
-
-</td>
+ <td width="50%">
+   <h3 align="center">🤖 Enterprise AI Fault Analysis</h3>
+   <div align="center">
+     <a href="#" target="_blank">
+       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" alt="AI System"/>
+     </a>
+     <br/>
+     <br/>
+     <p><b>Production-grade AI troubleshooting system</b></p>
+     <p>Tech: Python, FAISS, Gemma LLM, Streamlit, AWS, Docker</p>
+     <p>Impact: 100+ users, 95% accuracy, 60% faster</p>
+   </div>
+ </td>
+ <td width="50%">
+   <h3 align="center">🚜 Autonomous Agricultural IoT</h3>
+   <div align="center">
+     <a href="#" target="_blank">
+       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" alt="IoT System"/>
+     </a>
+     <br/>
+     <br/>
+     <p><b>Edge computing for precision agriculture</b></p>
+     <p>Tech: NVIDIA Jetson Nano, PyTorch, OpenCV, LSTM</p>
+     <p>Impact: 92% accuracy in plant health monitoring</p>
+   </div>
+ </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 👁️ Real-Time Object Detection
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%"/>
-
-**🎯 Accessibility Application**
-
-- 👀 30+ object categories detected
-- ⚡ YOLO v3 real-time processing
-- 🔊 Google TTS integration
-- ♿ WCAG compliant design
-
-**Stack:** YOLO v3 • OpenCV • Google TTS • Python
-
-</td>
-<td width="50%">
-
-### 🏭 Computer Vision QA System
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%"/>
-
-**🎯 Manufacturing Quality Control**
-
-- 🎯 98% defect detection accuracy
-- 📈 45% efficiency improvement
-- 🖥️ Real-time monitoring dashboard
-- 🔌 RESTful API architecture
-
-**Stack:** OpenCV • Python • Flask • Computer Vision
-
-</td>
+ <td width="50%">
+   <h3 align="center">👁️ Real-time Object Detection</h3>
+   <div align="center">
+     <a href="#" target="_blank">
+       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Computer Vision"/>
+     </a>
+     <br/>
+     <br/>
+     <p><b>Accessibility app with YOLO v3</b></p>
+     <p>Tech: YOLO v3, OpenCV, Google TTS API, Python</p>
+     <p>Impact: 30+ categories, minimal latency, WCAG compliant</p>
+   </div>
+ </td>
+ <td width="50%">
+   <h3 align="center">📊 More Projects Coming Soon</h3>
+   <div align="center">
+     <a href="https://github.com/arvindkumar1422?tab=repositories" target="_blank">
+       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Projects"/>
+     </a>
+     <br/>
+     <br/>
+     <p><b>Exploring new frontiers in AI/ML</b></p>
+     <p>Check out my GitHub for more innovations</p>
+   </div>
+ </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB STATS EXTRAVAGANZA -->
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-
-## 📊 DOMINATION STATISTICS 📊
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arvindkumar1422&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar1422&theme=highcontrast&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=arvindkumar1422&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar1422&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arvindkumar1422&theme=radical&utcOffset=5.5" width="49%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindkumar1422&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar1422&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2"/>
+</div>
 
-### 🏆 TROPHY COLLECTION 🏆
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arvindkumar1422&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindkumar1422&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar1422&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+</div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arvindkumar1422&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ACHIEVEMENTS -->
+<h2 align="center">🎖️ Achievements & Leadership</h2>
+
 <div align="center">
-
-## 🎖️ ACHIEVEMENTS & LEADERSHIP 🎖️
-
-</div>
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📜 ELITE CERTIFICATIONS
-
-<img src="https://img.icons8.com/nolan/64/certificate.png" align="right" width="80"/>
-
-- 🎓 **Oracle Cloud Infrastructure**  
-  Generative AI Professional
-
-- 🎓 **Salesforce AI Associate**  
-  AI Fundamentals
-
-- 🎓 **AWS Cloud Practitioner**  
-  (In Progress)
-
-- 🎓 **Machine Learning Specialization**  
-  Advanced ML Techniques
-
-- 🎓 **Deep Learning Specialization**  
-  Neural Networks & Deep Learning
-
-- 🎓 **System Design Course**  
-  Scalable Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 👑 LEADERSHIP LEGACY
-
-<img src="https://img.icons8.com/nolan/64/leadership.png" align="right" width="80"/>
-
-**🏆 President** — Cintel's Next Gen AI  
-*2024 - Present*
-
-```yaml
-Organization_Size: 200+ members
-Impact:
-  - Hackathon Participation: +150%
-  - Project Completion Rate: 90%
-  - Technical Workshops: 15+ conducted
-  - Industry Collaborations: 10+ companies
-```
-
-**🔬 Research Head** — Cintel Students  
-*2022 - 2024*
-
-```yaml
-Achievements:
-  - Research Projects: 25+ coordinated
-  - Publications: 5+ conference papers
-  - Mentorship: 50+ students guided
-  - Industry Partnerships: Established
-```
-
-</td>
+ <td width="50%" valign="top">
+   <h3>🏆 Certifications</h3>
+   <ul align="left">
+     <li>Oracle Cloud Infrastructure - Generative AI Professional</li>
+     <li>Salesforce AI Associate</li>
+     <li>AWS Cloud Practitioner (In Progress)</li>
+     <li>Machine Learning Specialization</li>
+     <li>Deep Learning Specialization</li>
+     <li>System Design Course</li>
+   </ul>
+ </td>
+ <td width="50%" valign="top">
+   <h3>👨‍💼 Leadership</h3>
+   <ul align="left">
+     <li><b>President</b> - Cintel's Next Gen AI (2024-Present)
+       <ul>
+         <li>Leading 200+ member organization</li>
+         <li>150% participation increase in hackathons</li>
+         <li>90% project completion rate for mentees</li>
+       </ul>
+     </li>
+     <li><b>Research Head</b> - Cintel Students Association (2022-2024)
+       <ul>
+         <li>Coordinated research projects</li>
+         <li>Facilitated industry collaboration</li>
+       </ul>
+     </li>
+   </ul>
+ </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- EPIC CALL TO ACTION -->
+<!-- CONNECT -->
+<h2 align="center">🤝 Let's Connect!</h2>
+
 <div align="center">
+<p>
+💼 <b>Open for:</b> SDE Internship/Full-Time roles (Jan-Jun 2026)<br/>
+🌐 <b>Available for:</b> Pan India relocation | Remote work<br/>
+💡 <b>Interested in:</b> AI/ML, System Design, Distributed Systems, Full-Stack Development<br/>
+📧 <b>Email:</b> ak2730531@gmail.com
+</p>
 
-## 🌟 LET'S BUILD THE FUTURE 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-### 💼 CURRENTLY SEEKING
-
-```ascii
-╔═══════════════════════════════════════════════╗
-║  POSITION: SDE Internship / Full-Time        ║
-║  TIMELINE: Jan - Jun 2026                    ║
-║  LOCATION: Pan India | Remote                ║
-║  FOCUS:    AI/ML | System Design | Full-Stack║
-╚═══════════════════════════════════════════════╝
-```
-
-### 📫 CONNECT WITH ME
+<br/>
 
 <a href="https://linkedin.com/in/arvindkumarcm">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:ak2730531@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/arvindkumar1422">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://arvindkumarcm-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-### 💭 PHILOSOPHY
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+systems+that+solve+real-world+problems;One+commit+at+a+time+%7C+One+deployment+at+a+time;Transforming+ideas+into+production-ready+solutions" alt="Philosophy" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 <br/>
 
-### ⚡ FUN FACT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=I+debug+code+faster+than+I+drink+coffee+☕;And+I+drink+A+LOT+of+coffee!" alt="Fun Fact" />
-
+<p><i>"Building scalable systems that solve real-world problems, one commit at a time."</i></p>
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- FOOTER -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
-
-<br/>
-
-**⭐️ From [arvindkumar1422](https://github.com/arvindkumar1422) | Crafted with 💙 and endless ☕**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-
+<div align="center">
+<p>
+⭐️ From <a href="https://github.com/arvindkumar1422">arvindkumar1422</a> | Made with ❤️ and lots of ☕
+</p>
 </div>
