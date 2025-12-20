@@ -302,21 +302,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CODING STATS -->
-<h2 align="center">⏱️ This Week I Coded</h2>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked yet. Set up WakaTime to see your coding stats!
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🎖️ Achievements & Leadership</h2>
 
@@ -354,55 +339,6 @@ No activity tracked yet. Set up WakaTime to see your coding stats!
       </td>
     </tr>
   </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GOALS -->
-<h2 align="center">🎯 2025 Goals</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-        <h3>🎓 Technical Mastery</h3>
-        <p align="left">
-          • System Design & Architecture<br/>
-          • Distributed Systems at Scale<br/>
-          • Cloud Infrastructure (AWS/GCP)<br/>
-          • Advanced ML/DL Research<br/>
-          • Production-Grade AI Apps
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-        <h3>💼 Career Goals</h3>
-        <p align="left">
-          • <b>SDE role</b> in top product company<br/>
-          • Large-scale distributed systems<br/>
-          • ML infrastructure work<br/>
-          • Jan-Jun 2026 (6 months)<br/>
-          • Pan India relocation ready
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-        <h3>🚀 Growth & Impact</h3>
-        <p align="left">
-          • Contribute to Open Source<br/>
-          • Publish research papers<br/>
-          • Build scalable systems<br/>
-          • Mentor aspiring developers<br/>
-          • Share knowledge through blogs
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
