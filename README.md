@@ -14,10 +14,10 @@
   <a href="https://github.com/arvindkumar1422">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#">
+  <a href="https://arvindkumarcm-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1m14NPTEdWkhVkOX6XtRqlBa8IwY2A1Cg/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-764ba2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <br/>
@@ -85,29 +85,68 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- EXPERIENCE -->
-<h2 align="center">💼 Professional Journey</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  Professional Journey
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
-```yaml
-Chennai Metro Rail Limited - SDE Intern (AI Systems)
-├─ AI fault analysis system: 500+ PDFs, 95% accuracy, 60% faster diagnostics
-├─ Semantic search engine: 100+ concurrent users, sub-second response
-└─ Integrated Gemma 2B LLM with zero-hallucination architecture
-
-TATA Steel India - SDE Intern (Computer Vision)
-├─ Automated QA system: Ring Test & Rib Test, 98% accuracy
-├─ Computer vision pipeline: 45% operational efficiency boost
-└─ Full-stack web app with real-time dashboard & RESTful API
-
-Sentient Scripts - SDE Intern (Full-Stack & AI)
-├─ Weather chatbot: 1000+ daily users, 92% satisfaction rate
-├─ LLM optimization: sub-100ms latency with HuggingFace
-└─ AWS EC2 deployment: 99.9% uptime with auto-scaling
-
-Renault Nissan Automotive - SDE Intern (IoT & Analytics)
-├─ Multi-sensor system: LIDAR + RGB cameras, 90% accuracy
-├─ Point Cloud Processing for volumetric calculations
-└─ ML-powered sensor fusion: 35% robustness improvement
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🏢 Chennai Metro Rail Limited</h3>
+        <p><b>SDE Intern (AI Systems) • Aug 2025 - Oct 2025</b></p>
+        <br/>
+        
+```diff
++ AI fault analysis system: 500+ PDFs, 95% accuracy
++ Semantic search: 100+ concurrent users, sub-second response  
++ Gemma 2B LLM: zero-hallucination architecture
++ Diagnostic time reduced by 60%
 ```
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏭 TATA Steel India</h3>
+        <p><b>SDE Intern (Computer Vision) • Apr 2025 - Jul 2025</b></p>
+        <br/>
+        
+```diff
++ Automated QA: Ring Test & Rib Test, 98% accuracy
++ Computer vision pipeline: 45% efficiency boost
++ Full-stack web app: real-time dashboard & RESTful API
++ Advanced image processing algorithms
+```
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>☁️ Sentient Scripts</h3>
+        <p><b>SDE Intern (Full-Stack & AI) • Dec 2024 - Feb 2025</b></p>
+        <br/>
+        
+```diff
++ Weather chatbot: 1000+ daily users, 92% satisfaction
++ LLM optimization: sub-100ms latency with HuggingFace
++ AWS EC2 deployment: 99.9% uptime, auto-scaling
++ Production-grade AI application
+```
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚗 Renault Nissan Automotive</h3>
+        <p><b>SDE Intern (IoT & Analytics) • Jul 2024 - Nov 2024</b></p>
+        <br/>
+        
+```diff
++ Multi-sensor system: LIDAR + RGB, 90% accuracy
++ Point Cloud Processing: volumetric calculations
++ ML-powered sensor fusion: 35% robustness boost
++ Real-time data pipeline architecture
+```
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
