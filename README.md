@@ -3,8 +3,8 @@
 <!-- CUSTOM HERO BANNER WITH THEME SUPPORT -->
 <a href="https://github.com/arvindkumar1422/arvindkumar1422">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=ARVIND%20KUMAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&section=header">
-    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&section=header">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=ARVIND%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=18&descAlignY=60&descAlign=50&section=header">
+    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=18&descAlignY=60&descAlign=50&section=header">
   </picture>
 </a>
 
@@ -538,6 +538,46 @@ interface OpportunityPreferences {
 ### 💭 Philosophy
 
 > *"Building scalable systems that solve real-world problems, one commit at a time."*
+
+<br/>
+
+---
+
+## 🎮 INTERACTIVE SNAKE GAME
+
+**Watch the snake eat contributions!** The snake below is dynamically generated from my GitHub contribution graph. Come back later to see it grow! 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvindkumar1422/arvindkumar1422/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvindkumar1422/arvindkumar1422/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arvindkumar1422/arvindkumar1422/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+---
+
+### 🕹️ QUICK STATS OVERVIEW
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindkumar1422&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" width="100%"/>
+  <br/>
+  <sub><b>📊 Overall Stats</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://streak-stats.demolab.com/?user=arvindkumar1422&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" width="100%"/>
+  <br/>
+  <sub><b>🔥 Contribution Streak</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkumar1422&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9" width="100%"/>
+  <br/>
+  <sub><b>💻 Top Languages</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
