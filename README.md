@@ -3,10 +3,13 @@
 <!-- CUSTOM HERO BANNER WITH THEME SUPPORT -->
 <a href="https://github.com/arvindkumar1422/arvindkumar1422">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&descAlign=50&section=header&stroke=ffffff&strokeWidth=2">
-    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&descAlign=50&section=header&stroke=ffffff&strokeWidth=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0d1117,50:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=22&descAlignY=58&descAlign=50&section=header">
+    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0d1117,50:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=22&descAlignY=58&descAlign=50&section=header">
   </picture>
 </a>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:667eea,100:764ba2&section=header" width="100%"/>
 
 <!-- ANIMATED TYPING TEXT -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Distributed+Systems+%F0%9F%9A%80;AI%2FML+%7C+Computer+Vision+%7C+Cloud+Architecture+%E2%98%81%EF%B8%8F;100%2B+Concurrent+Users+%7C+95%25%2B+Accuracy+%F0%9F%8E%AF;Chennai+Metro+%7C+TATA+Steel+%7C+Renault+Nissan+%F0%9F%8F%AD" alt="Typing Animation" />
