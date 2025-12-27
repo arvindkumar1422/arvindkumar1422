@@ -3,8 +3,8 @@
 <!-- CUSTOM HERO BANNER WITH THEME SUPPORT -->
 <a href="https://github.com/arvindkumar1422/arvindkumar1422">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=ARVIND%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=18&descAlignY=60&descAlign=50&section=header">
-    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=18&descAlignY=60&descAlign=50&section=header">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&descAlign=50&section=header&stroke=ffffff&strokeWidth=2">
+    <img alt="Arvind Kumar's GitHub Profile" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=ARVIND%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI/ML%20Specialist&descSize=20&descAlignY=55&descAlign=50&section=header&stroke=ffffff&strokeWidth=2">
   </picture>
 </a>
 
